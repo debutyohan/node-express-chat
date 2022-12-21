@@ -486,3 +486,7 @@ ul.tabs-container {
 .jspVerticalBar {
   width: 7px;
 }
+#pseudo-user input{
+  width:80px;
+  height:10px;
+}
